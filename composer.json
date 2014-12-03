@@ -1,5 +1,5 @@
 {
-    "name": "davispeixoto/laravel-4-solr",
+    "name": "digirew/laravel-4-solr",
     "description": "Laravel 4 Apache Solr simple query client",
     "keywords": ["laravel", "solr", "apache solr", "search engine", "laravel 4"],
     "license" : "MIT",
